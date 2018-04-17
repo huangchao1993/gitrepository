@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SMBMS
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: HC
+Implementation-Vendor-Id: com.elead
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/SMBMS/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
